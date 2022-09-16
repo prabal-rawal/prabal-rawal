@@ -21,7 +21,6 @@ Learning DSA and trying to start working on a project.
 <br></br>
 </p>
 
-<p><b>Here's a quote we can all relate to</b></p>
 <p align="center">
 "6 hours of debugging can save
 you 5 minutes of reading
